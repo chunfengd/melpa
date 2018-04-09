@@ -1,0 +1,2 @@
+
+(avy . [(20170208 448) ((emacs (24 1)) (cl-lib (0 5))) "tree-based completion" single ((:commit . "b8d71639158b44a2a700b84cb02fc8518ad7d542") (:keywords "point" "location") (:authors ("Oleh Krehel" . "ohwoeowho@gmail.com")) (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com") (:url . "https://github.com/abo-abo/avy"))])

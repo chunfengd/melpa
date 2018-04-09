@@ -1,0 +1,3 @@
+(avy :repo "abo-abo/avy"
+     :fetcher github
+     :commit "b8d71639158b44a2a700b84cb02fc8518ad7d542")

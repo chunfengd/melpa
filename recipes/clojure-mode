@@ -1,0 +1,4 @@
+(clojure-mode :repo "clojure-emacs/clojure-mode"
+              :fetcher github
+              :files ("clojure-mode.el")
+              :commit "4dcd7bc95f056ea61b0d1b16c5b03e1a6681b709")

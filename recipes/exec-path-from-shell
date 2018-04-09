@@ -1,0 +1,3 @@
+(exec-path-from-shell :fetcher github
+                      :repo "purcell/exec-path-from-shell"
+                      :commit "9def990ba4c30409a316d5cbf7b02296a394dece")

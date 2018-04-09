@@ -1,0 +1,2 @@
+
+(flycheck . [(20170223 547) ((dash (2 12 1)) (pkg-info (0 4)) (let-alist (1 0 4)) (seq (1 11)) (emacs (24 3))) "On-the-fly syntax checking" tar ((:commit . "da499ef6a7e3c8f4adec732703f34aea2a4e70a2") (:keywords "convenience" "languages" "tools") (:authors ("Sebastian Wiesner" . "swiesner@lunaryorn.com")) (:maintainer "Sebastian Wiesner" . "swiesner@lunaryorn.com") (:url . "http://www.flycheck.org"))])

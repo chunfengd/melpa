@@ -1,0 +1,10 @@
+(helm :repo "emacs-helm/helm"
+      :fetcher github
+      :files ("*.el"
+              "emacs-helm.sh"
+              (:exclude "helm.el"
+                        "helm-lib.el"
+                        "helm-source.el"
+                        "helm-multi-match.el"
+                        "helm-core-pkg.el"))
+      :commit "2e01f0717146ec654474496930ae5824cfd25a7b")
