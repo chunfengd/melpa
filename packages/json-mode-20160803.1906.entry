@@ -1,0 +1,2 @@
+
+(json-mode . [(20160803 1906) ((json-reformat (0 0 5)) (json-snatcher (1 0 0))) "Major mode for editing JSON files" single ((:commit . "e8ba0c03c5c10f61b8f0b3f5d531ef1d80dec9b0") (:authors ("Josh Johnston")) (:maintainer "Josh Johnston") (:url . "https://github.com/joshwnj/json-mode"))])

@@ -1,0 +1,3 @@
+(multiple-cursors :fetcher github
+                  :repo "magnars/multiple-cursors.el"
+                  :commit "ddbe3ae932b6564c7429c3b2507510093ed1f3aa")

@@ -1,0 +1,2 @@
+
+(scss-mode . [(20150107 1700) nil "Major mode for editing SCSS files" single ((:commit . "b010d134f499c4b4ad33fe8a669a81e9a531b0b2") (:keywords "scss" "css" "mode") (:authors ("Anton Johansson" . "anton.johansson@gmail.com")) (:maintainer "Anton Johansson" . "anton.johansson@gmail.com") (:url . "https://github.com/antonj/scss-mode"))])

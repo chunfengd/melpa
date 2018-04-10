@@ -1,0 +1,4 @@
+(projectile :repo "bbatsov/projectile"
+            :fetcher github
+            :files ("projectile.el")
+            :commit "d9cc453b9e11c9b2f03413e3075e063a6143af69")

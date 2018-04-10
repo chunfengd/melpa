@@ -1,0 +1,3 @@
+(js3-mode :repo "thomblake/js3-mode"
+          :fetcher github
+          :commit "229aeb374f1b1f3ee5c59b8ba3eebb6385c232cb")

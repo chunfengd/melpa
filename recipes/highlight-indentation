@@ -1,0 +1,3 @@
+(highlight-indentation :repo "antonj/Highlight-Indentation-for-Emacs"
+                       :fetcher github
+                       :commit "731fe2058b68b2eee8c6bc99d914d30f3de233c5")
